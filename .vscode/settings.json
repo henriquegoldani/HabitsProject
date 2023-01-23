@@ -33,5 +33,7 @@
       "source": "Git Bash"
     }
   },
-  "terminal.integrated.defaultProfile.windows": "Git Bash"
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "workbench.activityBar.iconClickBehavior": "toggle",
+  "workbench.layoutControl.type": "menu"
 }
