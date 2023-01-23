@@ -3,9 +3,11 @@
 App desenvolvido para usar como assistente de controle de hábitos.
 Utilizando fundamentos da programação e tecnologias como HTML, CSS, JavaScript, Git e Github de maneira prática!
 
-![Preview](https://github.com/henriquegoldani/HabitsProject/blob/main/assets/preview.png)
+![preview](https://github.com/henriquegoldani/HabitsProject/blob/main/assets/preview.png)
 
-![Projeto](https://henriquegoldani.github.io/HabitsProject/)
+## O projeto está disponível no github.
+
+[Clique aqui para acessar](https://henriquegoldani.github.io/HabitsProject/)
 
 ## Tecnologias
 
